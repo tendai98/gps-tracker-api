@@ -21,9 +21,6 @@ Before setting up the GPS-Tracker-API, you need to have the following:
 - A working email account (e.g., Gmail) for sending notifications
 
 
-```
-Your GPS-Tracker-API will be running on the specified port (default is 5000).
-
 ## API Endpoints
 
 - **GPS Data Endpoint**: `/gps`
